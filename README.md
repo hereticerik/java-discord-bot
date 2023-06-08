@@ -22,3 +22,6 @@ Once the bot is running, you can use it in your Discord server by typing command
 **custom commands** - if you have defined custom commands in a file named "commands.txt", you can use them by typing the command name in the channel where the bot is present.<br>
 
 You can easily create your own custom commands using text files.
+
+
+**This Discord Bot was made for Educational Purposes as an Example**
